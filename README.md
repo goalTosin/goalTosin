@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @goalTosin
 - 👀 I’m interested in Javascript, HTML and CSS - Game development, AI, Mathematics and Animation
-- 🌱 I’m currently learning about Version Control Systems
+- 🌱 I’m currently learning about HTML and CSS in Depth
 - 😄 Pronouns: Geek, Nerd, Programmer...
 - ⚡ Fun fact: I am really shy
 
